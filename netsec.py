@@ -19,7 +19,7 @@ ___________                                                __
  |     \   |  | \// __ \|  Y Y  \  ___/\     (  <_> )  | \/    <
  \___  /   |__|  (____  /__|_|  /\___  >\/\_/ \____/|__|  |__|_ \/
      \/               \/      \/     \/                        \/\033[1;3m
-     - josh.ewing@chownow.com
+     - josh.tewing@gmail.com
      - Version: 1
      '''
         print "\033[1;31mSome functionality requires root privelages..\033[1;m \n"
